@@ -22,7 +22,7 @@
   "dependencies": {
     "@wordpress/api-fetch": "wp-5.9",
     "@wordpress/base-styles": "wp-5.9",
-    "@wordpress/block-editor": "wp-5.9",
+    "@wordpress/block-editor": "8.6.0",
     "@wordpress/blocks": "wp-5.9",
     "@wordpress/components": "wp-5.9",
     "@wordpress/compose": "wp-5.9",
