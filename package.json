@@ -31,7 +31,7 @@
     "@wordpress/data-controls": "wp-5.9",
     "@wordpress/dom-ready": "wp-5.9",
     "@wordpress/edit-post": "wp-5.9",
-    "@wordpress/editor": "wp-5.9",
+    "@wordpress/editor": "12.14.0",
     "@wordpress/element": "wp-5.9",
     "@wordpress/escape-html": "wp-5.9",
     "@wordpress/hooks": "wp-5.9",
