@@ -34,7 +34,7 @@
     "@wordpress/editor": "wp-5.9",
     "@wordpress/element": "wp-5.9",
     "@wordpress/escape-html": "wp-5.9",
-    "@wordpress/hooks": "wp-5.9",
+    "@wordpress/hooks": "3.15.0",
     "@wordpress/html-entities": "wp-5.9",
     "@wordpress/i18n": "wp-5.9",
     "@wordpress/icons": "wp-5.9",
